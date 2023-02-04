@@ -1,0 +1,8 @@
+C:\Users\shivp\source\repos\FileIOOperations\FileIOOperations\bin\Debug\FileIOOperations.exe.config
+C:\Users\shivp\source\repos\FileIOOperations\FileIOOperations\bin\Debug\FileIOOperations.exe
+C:\Users\shivp\source\repos\FileIOOperations\FileIOOperations\bin\Debug\FileIOOperations.pdb
+C:\Users\shivp\source\repos\FileIOOperations\FileIOOperations\obj\Debug\FileIOOperations.csproj.AssemblyReference.cache
+C:\Users\shivp\source\repos\FileIOOperations\FileIOOperations\obj\Debug\FileIOOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\shivp\source\repos\FileIOOperations\FileIOOperations\obj\Debug\FileIOOperations.csproj.CoreCompileInputs.cache
+C:\Users\shivp\source\repos\FileIOOperations\FileIOOperations\obj\Debug\FileIOOperations.exe
+C:\Users\shivp\source\repos\FileIOOperations\FileIOOperations\obj\Debug\FileIOOperations.pdb
